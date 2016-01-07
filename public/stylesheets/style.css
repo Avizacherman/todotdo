@@ -1,0 +1,12 @@
+
+.background {
+  background: url('http://www.eonline.com/eol_images/Entire_Site/2013422/rs_500x323-130522155830-Infinite_Xzibit.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  opacity: .2;
+}
